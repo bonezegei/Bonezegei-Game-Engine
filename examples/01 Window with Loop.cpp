@@ -1,3 +1,8 @@
+/*
+    Author: (Bonezegei) Jofel Batutay
+    Date: February 5, 2024
+*/
+
 #include "bonezegei/bonezegei.h"
 
 Bonezegei bzn;
