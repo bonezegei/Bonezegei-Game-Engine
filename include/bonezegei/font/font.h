@@ -1,3 +1,8 @@
+/*
+    Author: (Bonezegei) Jofel Batutay
+    Date: February 4, 2024
+    Purpose: Bonezegei Engine
+*/
 #ifndef __FONT_H_INCLUDED__
 #define __FONT_H_INCLUDED__
 
