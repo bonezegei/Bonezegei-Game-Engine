@@ -19,3 +19,11 @@ Bonezegei Game Engine is a cross-platform game engine that allows developers to 
 * Static libstdc++ [-static-libstdc++]
 * Static Linking [-static]
 * (Optional) For faster execution [-O3]
+
+### Author / Creator
+Bonezegei Game Engine is Created by <strong>Jofel Batutay<strong> (Bonezegei).
+
+[![P](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jofelbatutay)
+[![P](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Jofel-Batutay)
+[![P](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0009-0007-1467-1947)
+[![P](https://img.shields.io/badge/GoogleScholar-4285F4?style=for-the-badge&logo=googleScholar&logoColor=white)](https://scholar.google.com/citations?user=pjUpWn8AAAAJ&hl=en)
