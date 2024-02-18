@@ -4,7 +4,7 @@ Bonezegei Game Engine is a cross-platform game engine that allows developers to 
 ### Features
 * Renderer: OpengGL 
 * OS: Windows 10 or above
-* 
+* Language: C and C++
 
 ### Bonezegei Engine Repository 
 * Contains the compiled version of the bonezegei Game Engine with examples and binaries
