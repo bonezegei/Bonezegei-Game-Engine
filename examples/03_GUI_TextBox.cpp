@@ -15,7 +15,7 @@ int main(){
     bzn.create(Dimension2di(1366,768),"Bonezegei Engine");
 
     // Add TextBox to GUI 
-    //! addImage( Param1, Param2, Param3, )
+    //! addTextBox( Param1, Param2, Param3, )
     //!     Param1 Rectangle( Position( X, Y) , Dimension( Width, Height) ) 
     //!     Param2 Parent  0= No parent
     //!     Param3 ID
