@@ -1,6 +1,9 @@
 ## Bonezegei-Game-Engine
 Bonezegei Game Engine is a cross-platform game engine that allows developers to create 2D and 3D games using C/C++. The engine uses openGL as its rendering API, which enables it to support a variety of graphics features such as lighting, shadows, textures, shaders, and post-processing effects. The engine also provides a user-friendly editor, a scripting system, a physics engine, an audio engine, and a networking module. Bonezegei Game Engine aims to be fast, flexible, and easy to use for both beginners and experts.
 
+### Disclaimer: 
+The Bonezegei Game Engine Repository is not a complete source code repository of the Bonezegei Game Engine. It only contains the compiled version of the engine, which can be used to create and run games using the Bonezegei framework. The repository also includes some examples and tutorials on how to use and setup the game engine for different platforms and purposes. The Bonezegei Game Engine is a proprietary software and its source code is not publicly available. The use of the compiled version of the engine is subject to the terms and conditions of the Bonezegei license agreement. Please read and follow the license agreement carefully before using the Bonezegei Game Engine Repository.
+
 ### Features
 * Renderer: OpenGL 
 * OS: Windows 10 or above
