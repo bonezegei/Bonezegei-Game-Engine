@@ -16,12 +16,11 @@ The Bonezegei Game Engine Repository is not a complete source code repository of
 * The ideal IDE is the latest version of codeblocks
 
 ### Usage on Codeblocks
-<strong>Requirements:</strong> CodeBlocks 20 With MingW
-* Open Codeblocks and Create New Project (File -> New -> Project).
+<strong>Requirements:</strong> CodeBlocks 20 With MingW (https://www.codeblocks.org/downloads/binaries/)
+* Open Codeblocks and Create New Project ( <strong>File</strong> -> <strong>New</strong> -> <strong>Project</strong>).
   * Select <strong>Console Application</strong> and click <strong>Go</strong>.
   * Click <strong>Next</strong>. Then Select <strong> C++ </strong> as the language to use.
-  * 
-
+  * Input the <strong>Project Name</strong> and Select the desired folder location where the project will be save. Then click <strong> Next </strong> and then click<strong> Finish</strong>.
 * 
 
 ### Compiler Options
